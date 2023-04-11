@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my personal projects are at [https://github.com/kaikaic1998](https://github.com/kaikaic1998)
 
-- 📫 How to reach me **kainianc@gmai.com**
+- 📫 How to reach me **kainianc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
