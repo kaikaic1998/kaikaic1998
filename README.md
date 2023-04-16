@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Data Structure and Algorithms**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my personal projects are at [https://github.com/kaikaic1998](https://github.com/kaikaic1998)
 
