@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Pytorch**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **IBM AI Engineer Professional Certificate**
 
 - 👨‍💻 All of my personal projects are at [https://github.com/kaikaic1998](https://github.com/kaikaic1998)
 
