@@ -5,6 +5,7 @@
 🔭 I’m currently working on Real-time Pose Classification Foundation Framework
 
 👨‍💻 All of my projects are available at [Repositories](https://github.com/kaikaic1998?tab=repositories)
+- [Unified Action Recognition System](https://github.com/kaikaic1998/Unified_Action_Recognition_System.git)
 - [Real-Time Video Inpainting PoC](https://github.com/kaikaic1998/Real_Time_Video_Inpainting_PoC.git)
 - [Schematics Comparator with ConvNeXt based Siamese Networks](https://github.com/kaikaic1998/Schematics_Comparator_ConvNeXt_Siamese_Networks.git)
 
